@@ -1,12 +1,12 @@
-# Formulario de Inscrição para DEVs 💻
+# Application Form for DEVs 💻
 
-### 🔹Sobre o Projeto:
-Foi baseado em uma das aulas da **Rafaella Ballerini** Formulários de HTML e CSS, ele tem como objetivo de ser um formulário de Incrições para saber as experiências do candidato DEV!
+### 🔹About this Project:
+It was based on one of **Rafaella Ballerini's classes** HTML and CSS Forms, it aims to be an Application form to know the DEV candidate's experiences!
 
-### 🔹Tecnologias Utilizadas:
+### 🔹technologies used:
 
 - HTML
 - CSS
 
-### 🔹Layout do Projeto:
+### 🔹Project Layout:
 ![image](https://user-images.githubusercontent.com/70981960/155890817-0242cef2-b920-4efc-84c3-9934f33baeb6.png)
